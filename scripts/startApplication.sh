@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Navigate to the directory where your application code is located.
-cd /path/to/your/application/directory
+cd /home/ubuntu/AquilaCMS
 
 # Install application dependencies using npm or yarn.
 # If you don't need this, you can skip it.
-npm install
+# npm install
 
 # Start your application using npm start.
 # You can customize this command based on how your application is configured.
